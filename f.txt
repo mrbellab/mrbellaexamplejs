@@ -15,7 +15,7 @@ a);return b};var O,G=opts_.usqp?{usqp:opts_.usqp}:{},P=opts_.language.toLowerCas
 Q&&(R.onload=Q);document.getElementsByTagName("head")[0].appendChild(R);if(M()){document.getElementsByTagName("head")[0].appendChild(N(opts_.cselibVersion?E(K,{versionDir:opts_.cselibVersion,versionSlash:L,experiment:"",lang:opts_.language}):E(K,{versionDir:"",versionSlash:"",experiment:"",lang:opts_.language})));var W,X=opts_.uiOptions.cssThemeVersion||2,Y=opts_.theme.toLowerCase(),Z=X?"v"+X:Y.match(/v2_/g)?"v2":"",da=Y.replace("v2_","");W=E(ba,{versionDir:Z,versionSlash:Z?L:"",theme:da});document.getElementsByTagName("head")[0].appendChild(N(W))};
 })({
   "cx": "2244566429d124adc",
-  "language": "",
+  "language": "en",
   "theme": "V2_DEFAULT",
   "uiOptions": {
     "resultsUrl": "https://findblogspots.blogspot.com/p/search.html",
